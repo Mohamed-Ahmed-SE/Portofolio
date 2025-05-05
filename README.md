@@ -8,16 +8,13 @@ About Me section
 
 Projects with images and links
 
-Contact form (can be linked to services like Formspree or EmailJS)
+Contact form (mohamed3zma77@gmail.com)
 
-Dark mode (optional)
+Dark mode and Light mode
 
 🛠️ Built With
-HTML5 & CSS3
+HTML5 & CSS3 JavaScript 
 
-JavaScript (or React/Vue, if applicable)
-
-[Include any libraries/frameworks used like Tailwind CSS, Bootstrap, etc.]
 
 🌐 Live Demo
 Check out the live version of my portfolio here: https://mohamed-ahmed-se.github.io/Portofolio/
